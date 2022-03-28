@@ -14,7 +14,7 @@ public class _00_ArrayListDemo {
         names.add("Sara");
         names.add("Fred");
         names.add("Marc");
-
+        
         /*
          * Iterating through list with a standard for-loop
          */
